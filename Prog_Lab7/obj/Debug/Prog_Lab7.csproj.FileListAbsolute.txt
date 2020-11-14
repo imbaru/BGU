@@ -1,0 +1,14 @@
+C:\Users\Yara\source\repos\Prog_Lab7\bin\Debug\Prog_Lab7.exe.config
+C:\Users\Yara\source\repos\Prog_Lab7\bin\Debug\Prog_Lab7.exe
+C:\Users\Yara\source\repos\Prog_Lab7\bin\Debug\Prog_Lab7.pdb
+C:\Users\Yara\source\repos\Prog_Lab7\obj\Debug\Prog_Lab7.csprojAssemblyReference.cache
+C:\Users\Yara\source\repos\Prog_Lab7\obj\Debug\Prog_Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Yara\source\repos\Prog_Lab7\obj\Debug\Prog_Lab7.exe
+C:\Users\Yara\source\repos\Prog_Lab7\obj\Debug\Prog_Lab7.pdb
+D:\Git\BGU\Prog_Lab7\bin\Debug\Prog_Lab7.exe.config
+D:\Git\BGU\Prog_Lab7\bin\Debug\Prog_Lab7.exe
+D:\Git\BGU\Prog_Lab7\bin\Debug\Prog_Lab7.pdb
+D:\Git\BGU\Prog_Lab7\obj\Debug\Prog_Lab7.csprojAssemblyReference.cache
+D:\Git\BGU\Prog_Lab7\obj\Debug\Prog_Lab7.csproj.CoreCompileInputs.cache
+D:\Git\BGU\Prog_Lab7\obj\Debug\Prog_Lab7.exe
+D:\Git\BGU\Prog_Lab7\obj\Debug\Prog_Lab7.pdb
