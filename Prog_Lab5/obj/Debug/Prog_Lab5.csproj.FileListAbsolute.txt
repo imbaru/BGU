@@ -1,7 +1,0 @@
-D:\Git\Prog_Lab5\obj\Debug\Prog_Lab5.csprojAssemblyReference.cache
-D:\Git\Prog_Lab5\obj\Debug\Prog_Lab5.csproj.CoreCompileInputs.cache
-D:\Git\Prog_Lab5\bin\Debug\Prog_Lab5.exe.config
-D:\Git\Prog_Lab5\bin\Debug\Prog_Lab5.exe
-D:\Git\Prog_Lab5\bin\Debug\Prog_Lab5.pdb
-D:\Git\Prog_Lab5\obj\Debug\Prog_Lab5.exe
-D:\Git\Prog_Lab5\obj\Debug\Prog_Lab5.pdb

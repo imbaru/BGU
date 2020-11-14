@@ -1,7 +1,0 @@
-D:\Git\Prog_Lab4\bin\Debug\Prog_Lab4.exe.config
-D:\Git\Prog_Lab4\bin\Debug\Prog_Lab4.exe
-D:\Git\Prog_Lab4\bin\Debug\Prog_Lab4.pdb
-D:\Git\Prog_Lab4\obj\Debug\Prog_Lab4.csproj.CoreCompileInputs.cache
-D:\Git\Prog_Lab4\obj\Debug\Prog_Lab4.exe
-D:\Git\Prog_Lab4\obj\Debug\Prog_Lab4.pdb
-D:\Git\Prog_Lab4\obj\Debug\Prog_Lab4.csprojAssemblyReference.cache
